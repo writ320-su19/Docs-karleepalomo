@@ -17,8 +17,8 @@ Access to justice is a nation-wide problem; however my law review article will f
 2. Access to Justice Problem in Mississippi
     1. Importance of Access to Justice
     2. Free Legal Services
-      1. Impact
-      2. Challenges
+        1. Impact
+        2. Challenges
 3. Solutions
     1. LLLT
     2. Mandating Pro Bono Publico Work
